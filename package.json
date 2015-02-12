@@ -1,0 +1,22 @@
+{
+  "author": "Kirby Wu",
+  "name": "facebook-api",
+  "description": "Fetch information from Facebook",
+  "version": "0.0.1",
+  "homepage": "https://github.com/zbryikt/facebook-api",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zbryikt/facebook-api"
+  },
+  "engines": {
+    "node": ">=0.8.18",
+    "npm": ">=1.2.2"
+  },
+  "dependencies": {
+    "bluebird": "=2.8.0",
+    "request": "=2.51.0",
+  },
+  "devDependencies": {
+    "LiveScript": ">=1.2.0"
+  }
+}

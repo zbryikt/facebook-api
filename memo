@@ -1,0 +1,7 @@
+取得 access token
+
+https://graph.facebook.com/oauth/access_token?%20client_id=486392664834853&client_secret=cb4c698b33104779e6a95656ae8a13e7&grant_type=client_credentials
+
+取得 like 數
+
+https://graph.facebook.com/v2.1/?id=http%3A%2F%2Fwww.imdb.com?fields=likes&access_token=486392664834853|8Un_SW482GkHgm2tFO0Q4kDi5IQ
